@@ -5,7 +5,7 @@ gsap.from(".animationStart" , {
 })
 
 gsap.from(".animationBtn" , {
-    y: 600,
+    y: 800,
     opacity: 0,
     duration: 2,
 })
